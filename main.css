@@ -4,5 +4,6 @@ body {
 }
 
 p {
-    background:#FF75A0
+    background:#FF75A0;
+    text-align: right;
 }
